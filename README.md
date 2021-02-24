@@ -9,7 +9,7 @@ User can do a random sort or by phone number, email or name.
 
 [Deployed Link](https://valiant87.github.io/React-Employee-Directory/)
 
-![Project]()
+![Project](react_dir.png)
 
 ## Documentation
 
